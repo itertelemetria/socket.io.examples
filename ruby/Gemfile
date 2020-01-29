@@ -1,0 +1,1 @@
+gem 'socket.io-client-simple'

@@ -1,0 +1,4 @@
+name: socket
+
+dependencies:
+  socket_io_client: 
